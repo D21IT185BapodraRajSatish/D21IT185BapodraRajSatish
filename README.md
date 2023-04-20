@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hello Guys 👋, This is Raj Bapodra</h1>
+<h1 align="center">Hello Flocks 👋, This is Raj Bapodra</h1>
 <h3 align="justify">I have developed their skills in cloud computing, mobile application development using ios and android, spring boot, and DevOps through various projects, Developed a project named smart card using IOT component and android. I am currently working on a project named Minomics that utilizes Spring Boot and AWS,Flutter, MySQL demonstrating their teamwork skills and ability to work under pressure. I also have extensive knowledge of DevOps tools .I have Secured 1st rank in the project competition at regional level, highlighting my ability to perform under pressure and deliver results.!✨</h3>
 <br />
 <br />
