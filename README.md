@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hello Flocks 👋, This is Raj Bapodra</h1>
-<h3 align="justify">I have developed their skills in cloud computing, mobile application development using ios and android, spring boot, and DevOps through various projects, Developed a project named smart card using IOT component and android. I am currently working on a project named Minomics that utilizes Spring Boot and AWS,Flutter, MySQL demonstrating their teamwork skills and ability to work under pressure. I also have extensive knowledge of DevOps tools .I have Secured 1st rank in the project competition at regional level, highlighting my ability to perform under pressure and deliver results.!✨</h3>
+<h3 align="justify">I have developed their skills in cloud computing, mobile application development using iOS and Android, Spring Boot, and DevOps through various projects, Developed a project named Smart Card using IoT component and Android. I am currently working on a project named Minomics that utilizes Spring Boot and AWS, Flutter, MySQL demonstrating their teamwork skills and ability to work under pressure. I also have extensive knowledge of DevOps tools. I have secured 1st rank in the project competition at regional level, highlighting my ability to perform under pressure and deliver results.!✨</h3>
 <br />
 <br />
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="50%" />
@@ -26,11 +26,9 @@
 <a href="https://www.codechef.com/users/raj_bapdra185" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajbapodra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/d21it185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d21it185" height="30" width="40" /></a>
 
-
 <br />
 
-
-<h3 align="left">Languages & Framworks:</h3>
+<h3 align="left">Languages & Frameworks:</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
@@ -50,18 +48,16 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-
-
-
-
-
 <br/>
+
+<h3 align="left">GitHub Contributions:</h3>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=D21IT185BapodraRajSatish&theme=github" alt="GitHub Activity Graph" />
+</div>
 
 <br />
 
-<h3 align="left">📈 My GitHub Status</h3>
-
-
+<h3 align="left">📊 My GitHub Status</h3>
 <div align="center">
   <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=D21IT185BapodraRajSatish&show_icons=true&locale=en&layout=compact" alt="D21IT185BapodraRajSatish"/>  
   <img height="180px" weight="250px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=D21IT185BapodraRajSatish&show_icons=true&locale=en" alt="D21IT185BapodraRajSatish" />
@@ -72,12 +68,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔝 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 💯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💏 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
