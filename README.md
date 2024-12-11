@@ -63,17 +63,37 @@
   <img height="180px" weight="250px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=D21IT185BapodraRajSatish&show_icons=true&locale=en" alt="D21IT185BapodraRajSatish" />
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=D21IT185BapodraRajSatish&" alt="D21IT185BapodraRajSatish" />
 </div>
-<!--
-**D21IT185BapodraRajSatish/D21IT185BapodraRajSatish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">🌟 Open Source Contributions:</h3>
+<div align="center">
+  <!-- Badges for PR and issues -->
+  <a href="https://github.com/D21IT185BapodraRajSatish">
+    <img src="https://img.shields.io/github/issues-pr-closed/D21IT185BapodraRajSatish" alt="Closed PRs">
+  </a>
+  <a href="https://github.com/D21IT185BapodraRajSatish">
+    <img src="https://img.shields.io/github/issues-closed/D21IT185BapodraRajSatish" alt="Closed Issues">
+  </a>
+</div>
 
-- 🔝 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 💏 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub activity graph -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=D21IT185BapodraRajSatish&theme=react-dark" alt="Contribution Graph">
+</div>
+
+<!-- Contributions Table -->
+<h4 align="left">🔑 Key Contributions:</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>PRs Merged</th>
+      <th>Issues Resolved</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/org/repo1">Repo1</a></td>
+      <td>5</td>
+      <td>3</td>
+      <td><a href="https
